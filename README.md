@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **NextJS, Vue**
+
 
 - 📫 How to reach me **amandeo2907@gmail.com**
 
