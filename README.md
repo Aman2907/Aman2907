@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 <h3 align="center">💻 A passionate Software Developer from India 🇮🇳</h3>
 
-🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯
 
 - 🔭 I’m currently working on personal testing and practice projects  
 - 💬 Ask me about **JavaScript, MERN stack, and anything web-dev related**  
 - 📫 How to reach me: **amandeo2907@gmail.com** and **7602603674**
 
-🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
