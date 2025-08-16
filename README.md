@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on personal and practice projects  
 - 💡 Skilled in **JavaScript**, **React**, **NextJS** , **Node.js**, **MongoDB**, and more  
-- 🗣️ Ask me about anything related to **web development** or **MERN stack**  
+- 🗣️ Ask me about anything related to **Web development** or **MERN stack**  
 - 📫 Reach me at: **amandeo2907@gmail.com** | 📱 **7602603674**
 
 ---
