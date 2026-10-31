@@ -133,25 +133,34 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 Arvo AI – AI-Powered Application Builder
+### 🤖 [Arvo AI – AI-Powered Application Builder](https://arvo-ai-omega.vercel.app/)
 
-- Developed an AI-powered application builder that generates React applications from natural-language prompts.
-- Implemented real-time code previews and AI-assisted code improvements.
-- Integrated Google GenAI, Clerk, Supabase, Trigger.dev, and Sandpack.
+- Developed an AI-powered application builder that generates React applications from natural language prompts.
+- Implemented real-time code previews, enabling users to visualize generated applications instantly.
+- Integrated AI-assisted code generation and improvement capabilities using Google GenAI.
+- Implemented authentication, backend services, and agentic workflows using Clerk, Supabase, and Trigger.dev.
+- Integrated Sandpack for interactive, in-browser code editing and live previews.
 
 **Tech Stack:** Next.js, React.js, TypeScript, Tailwind CSS, Google GenAI, Supabase, Clerk, Trigger.dev, Sandpack, REST APIs.
 
----
+**Live Demo:** [View Application](https://arvo-ai-omega.vercel.app/)
 
-### 🍔 Food Ordering & Order Tracking System
-
-- Developed a full-stack food ordering application.
-- Implemented menu browsing, cart management, checkout, and order placement.
-- Added simulated real-time order tracking and status updates.
-
-**Tech Stack:** React.js, Vite, Tailwind CSS, Node.js, Express.js, MongoDB.
+**Deployment:** Hosted on Vercel.
 
 ---
+
+### 🍔 [Food Ordering & Order Tracking System](https://raftlab.vercel.app/)
+
+- Developed a full-stack food ordering application with a responsive and user-friendly interface.
+- Implemented menu browsing, dynamic cart management, checkout, and order placement functionality.
+- Built an order tracking system with simulated real-time status updates: Order Received → Preparing → Out for Delivery → Delivered.
+- Developed RESTful APIs to manage food items, customer orders, and order status updates.
+
+**Tech Stack:** React.js, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, REST APIs.
+
+**Live Demo:** [View Application](https://raftlab.vercel.app/)
+
+**Deployment:** Hosted on Vercel.
 
 ## 🎓 Education
 
