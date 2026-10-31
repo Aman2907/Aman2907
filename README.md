@@ -163,18 +163,7 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansharma2907&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansharma2907&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amansharma2907&theme=tokyonight&hide_border=true" />
-</p>
-
----
+ 
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
