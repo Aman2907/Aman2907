@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Developer with **3 years of experience** building scalable web applications.
+- 💻 Full Stack Developer with **3+ years of experience** building scalable web applications.
 - 🔭 Currently working on personal projects and exploring modern web technologies.
 - 🌱 Skilled in **JavaScript, TypeScript, React.js, Next.js, Node.js, and Express.js**.
 - 🤖 Exploring **Generative AI, Retrieval-Augmented Generation (RAG), and AI-powered applications**.
